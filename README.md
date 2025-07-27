@@ -4,6 +4,8 @@ These Tasks basically are :
 //  ----------------------------------------------------------------FIRST TASK PROJCT :----------------------------------------------------
 
 (A).Number Game :
+
+<br>
 1.Generate a random number within a specified range, such as 1 to 100.
 
 2. Prompt the user to enter their guess for the generated number.
@@ -16,7 +18,9 @@ is correct, too high, or too low.
 
 //  --------------------------------------------------------------SECOND TASK PROJCT :------------------------------------------------------
 
-(B).Student Grade Calculator :
+(B).Student Grade Calculator: 
+
+<br>
 Input: Take marks obtained (out of 100) in each subject.
 Calculate Total Marks: Sum up the marks obtained in all subjects.
 Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
@@ -29,6 +33,8 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 
 (C).ATM Interface :
+
+<br>
 1.Create a class to represent the ATM machine.
 
 2. Design the user interface for the ATM, including options such as withdrawing, depositing, and
@@ -54,6 +60,7 @@ of their transactions.
 (D).Currency Convertor :
 
 
+<br>😁
 Currency Selection: Allow the user to choose the base currency and the target
 currency.
 
