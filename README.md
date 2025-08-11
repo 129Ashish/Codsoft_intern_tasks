@@ -16,7 +16,7 @@ The codebase is organized into folders, each containing a specific problem or ch
 5. **Easy to understand**: The code is written in a clear and concise manner, making it easy for programmers of all levels to understand.
 6. **Flexible**: The code snippets can be modified and extended to fit specific needs and requirements.
 7. **Tested and validated**: The code snippets have been tested and validated to ensure they work correctly and produce the expected results.
-8. **Well-organized**: The codebase is organized in a logical and easy-to-follow manner, making it easy to find and use the code snippets.
+8. **Well-organized**: The codebase is organized in a logical and easy-to-follow manner, making it easy to find and use the code snippets.....
 
 🧰 Tech Stack Table
 
