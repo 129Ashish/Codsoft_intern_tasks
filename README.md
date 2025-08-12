@@ -1,5 +1,5 @@
 # Generic Codebase Project 🚀
-## Tagline: "A collection of code snippets for various programming problems"...
+## Tagline: "A collection of code snippets for various programming problems"
 
 📖 Description.
 
