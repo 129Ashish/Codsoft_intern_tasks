@@ -1,7 +1,7 @@
 # Generic Codebase Project 🚀
 ## Tagline: "A collection of code snippets for various programming problems"
 
-📖 Description.
+📖 Description..
 
 The Generic Codebase project is a collection of code snippets for various programming problems. These code snippets are designed to be standalone and can be used as a starting point for solving different programming challenges. The project includes code for Java programming language and covers a range of topics from basic programming concepts to more advanced topics.
 
